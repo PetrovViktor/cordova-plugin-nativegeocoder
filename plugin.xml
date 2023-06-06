@@ -30,7 +30,7 @@
 		<preference name="LOCATION_WHEN_IN_USE_DESCRIPTION" default="Use geocoder service" />
 
 		<config-file parent="/*" target="config.xml">
-			<preference name="SwiftVersion" value="5" />
+			<preference name="SwiftVersion" value="5.8" />
 			<feature name="NativeGeocoder">
 				<param name="ios-package" value="NativeGeocoder" />
 			</feature>
